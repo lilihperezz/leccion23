@@ -28,19 +28,4 @@ window.addEventListener("load", function() {
 		
 
 
-		/*this.saludar=function(){
-				return = "Hola" + this.nombre;
-	 	};
-	}
-/*	var persona1 = new Persona("Ivan",22)
-});
-
-	
-saludar: function(){
-    console.log("Hola" + this.nombre);
-}
-};
-
-mayorDeEdad = (edad >=18) ?true :false;
-*/
- 
+		
